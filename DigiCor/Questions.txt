@@ -1,0 +1,24 @@
+Questions:
+1. cant find the fan size for chassis number: CSE-217HQ+-R2K20BP3 (product 190 in excel file) (link: https://www.supermicro.com/en/products/system/2U/2029/SYS-2029TP-HC1R.cfm)
+
+2. How to find "Optional_rear_drive_bays"
+
+3. How come "PC Health Monitoring" for "SYS-4029GP-TRT" is Yes and "SYS-5019A-FTN4" is "No"
+
+4. How to find GbE
+
+5. How to find Use Cases
+
+6. How to find CITRIX_COMPATIBLE
+
+7. How to find VM_WARE_COMPATIBLE
+
+8. How to find VIRTUALISATION_SERVER
+
+9. How to find HyperV
+
+10. How to find Vertical_Markets, WINDOWS_OS, RHEL/Ubuntu/SUSE, VMWare, Citrix, GPU
+
+11. Repetitive products in the excel spec file. what to do with them
+
+12. On what basis to categorize (server, storage, blade, workstation) the products?

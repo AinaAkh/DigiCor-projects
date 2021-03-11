@@ -1,0 +1,115 @@
+Event Label,Total Events,Unique Events,Event Value,Avg. Value
+"{""name"":null,""email"":null}",42,40,0,0
+"{""bom"":""Barebone Bom | AS-4124GS-TNR""}",10,4,0,0
+"{""bom"":""Barebone Bom | S123-SE86-MD""}",7,3,0,0
+"{""bom"":""Query | D283-SE422-MDR""}",6,3,0,0
+"{""bom"":""Barebone Bom | SuperServer-1019GP-TT""}",5,2,0,0
+"{""bom"":""Query | 1114s""}",5,1,0,0
+"{""bom"":""Basic Bom | D453-Si98-MOR""}",4,3,0,0
+"{""bom"":""Basic Bom | DT83-DS228-NQ""}",4,1,0,0
+"{""bom"":""Query | 123""}",4,1,0,0
+"{""bom"":""Query | storage ""}",4,1,0,0
+"{""name"":"""",""email"":"""",""phone"":"""",""company"":"""",""country"":""AU"",""region"":""""}",4,4,0,0
+"{""bom"":""Query | 3090""}",3,1,0,0
+"{""bom"":""Query | 847E2C""}",3,1,0,0
+"{""bom"":""Query | AMD GPU ""}",3,1,0,0
+"{""bom"":""Query | jb3""}",3,1,0,0
+"{""bom"":""Query | RS-500-G6-1250-B1""}",3,1,0,0
+Adlink Wed Jan 13 2021 15:06:22 GMT+1100 (AEDT),3,1,0,0
+AMD Fri Jan 08 2021 16:19:43 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+AMD Mon Jan 25 2021 12:00:41 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+ASUS Fri Jan 08 2021 16:20:39 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+DDN Sun Jan 24 2021 17:07:54 GMT+0400 (Gulf Standard Time),3,1,0,0
+Juniper Mon Jan 25 2021 12:00:38 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+Redhat Mon Jan 25 2021 12:00:20 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+Redhat Mon Jan 25 2021 12:00:24 GMT+1100 (Australian Eastern Daylight Time),3,1,0,0
+"{""bom"":""Barebone Bom | AS-2113S-WTRT""}",2,2,0,0
+"{""bom"":""Barebone Bom | ASUS-E800-G4""}",2,1,0,0
+"{""bom"":""Barebone Bom | Intel-R1208WFTYS-AF""}",2,1,0,0
+"{""bom"":""Barebone Bom | S143-SS222-DM""}",2,2,0,0
+"{""bom"":""Barebone Bom | SuperStorage-5029P-E1CTR12L""}",2,1,0,0
+"{""bom"":""Barebone Bom | SuperStorage-6029P-E1CR12L""}",2,1,0,0
+"{""bom"":""Query | 2028GR-TRH""}",2,1,0,0
+"{""bom"":""Query | 2028GR""}",2,1,0,0
+"{""bom"":""Query | cable""}",2,1,0,0
+"{""bom"":""Query | GS5A-754K""}",2,1,0,0
+"{""bom"":""Query | H12ssl-nt""}",2,1,0,0
+"{""bom"":""Query | intel storage server""}",2,1,0,0
+"{""bom"":""Query | mouse""}",2,1,0,0
+"{""bom"":""Query | PWS-2K22A-1R""}",2,1,0,0
+"{""bom"":""Query | red hat ceph""}",2,1,0,0
+"{""bom"":""Query | service""}",2,1,0,0
+"{""bom"":""Query | storage ser""}",2,1,0,0
+"{""bom"":""Query | tesla v100""}",2,1,0,0
+"{""bom"":""Barebone Bom | ASUS-E500-G5""}",1,1,0,0
+"{""bom"":""Barebone Bom | SuperServer-6029P-WTRT""}",1,1,0,0
+"{""bom"":""Basic Bom | D123-SD18-M""}",1,1,0,0
+"{""bom"":""Basic Bom | D4243-DS228-MDR""}",1,1,0,0
+"{""bom"":""Basic Bom | DT43-SW28-MN""}",1,1,0,0
+"{""bom"":""FullyBom | MVP-5000""}",1,1,0,0
+"{""bom"":""Query | 512""}",1,1,0,0
+"{""bom"":""Query | 512L-200B""}",1,1,0,0
+"{""bom"":""Query | 5G distributed unit.""}",1,1,0,0
+"{""bom"":""Query | 745BTQ-R1K28B-SQ""}",1,1,0,0
+"{""bom"":""Query | 825TQC-R740LPB""}",1,1,0,0
+"{""bom"":""Query | abc""}",1,1,0,0
+"{""bom"":""Query | abc02""}",1,1,0,0
+"{""bom"":""Query | CSPC-""}",1,1,0,0
+"{""bom"":""Query | CSPC-84""}",1,1,0,0
+"{""bom"":""Query | CSPC-847E""}",1,1,0,0
+"{""bom"":""Query | CSPC-847E2C""}",1,1,0,0
+"{""bom"":""Query | CSPC""}",1,1,0,0
+"{""bom"":""Query | CSPC847E2C""}",1,1,0,0
+"{""bom"":""Query | distributed unit.""}",1,1,0,0
+"{""bom"":""Query | distributed unit""}",1,1,0,0
+"{""bom"":""Query | event""}",1,1,0,0
+"{""bom"":""Query | events""}",1,1,0,0
+"{""bom"":""Query | GS5A-754K ""}",1,1,0,0
+"{""bom"":""Query | guest post""}",1,1,0,0
+"{""bom"":""Query | h11ssl""}",1,1,0,0
+"{""bom"":""Query | H12""}",1,1,0,0
+"{""bom"":""Query | HGST 10TB 3.5\"" SAS 12GBs 7200RPM 512E SE MB Cache Hard Drive""}",1,1,0,0
+"{""bom"":""Query | intel storage sz""}",1,1,0,0
+"{""bom"":""Query | intel""}",1,1,0,0
+"{""bom"":""Query | jbod""}",1,1,0,0
+"{""bom"":""Query | MI100""}",1,1,0,0
+"{""bom"":""Query | red ""}",1,1,0,0
+"{""bom"":""Query | red hat ""}",1,1,0,0
+"{""bom"":""Query | red hat""}",1,1,0,0
+"{""bom"":""Query | redhat ""}",1,1,0,0
+"{""bom"":""Query | redhat ceph""}",1,1,0,0
+"{""bom"":""Query | RS-500-G6-1250-B1 ""}",1,1,0,0
+"{""bom"":""Query | ser""}",1,1,0,0
+"{""bom"":""Query | servi""}",1,1,0,0
+"{""bom"":""Query | singapore""}",1,1,0,0
+"{""bom"":""Query | SJa""}",1,1,0,0
+"{""bom"":""Query | storage server""}",1,1,0,0
+"{""bom"":""Query | surv""}",1,1,0,0
+"{""bom"":""Query | survil""}",1,1,0,0
+"{""bom"":""Query | survillance""}",1,1,0,0
+"{""bom"":""Query | SYS-5019S-ML""}",1,1,0,0
+"{""bom"":""Query | SYS-E""}",1,1,0,0
+"{""bom"":""Query | SYS-E30""}",1,1,0,0
+"{""bom"":""Query | SYS-E301-9D-8CN8TP""}",1,1,0,0
+"{""bom"":""Query | SYS-E301""}",1,1,0,0
+"{""bom"":""Query | tesla ""}",1,1,0,0
+"{""bom"":""Query | tesla v""}",1,1,0,0
+"{""bom"":""Query | wb1""}",1,1,0,0
+"{""bom"":""Query | wb15""}",1,1,0,0
+"{""bom"":""Query | wb1522""}",1,1,0,0
+"{""bom"":""Storage Bom | SJ242-AR""}",1,1,0,0
+"{""email"":""156089219@qq.com"",""name"":""zhonghua"",""phone"":""123123123"",""company"":""cvb"",""address"":""ertygfd"",""region"":""NSW""}",1,1,0,0
+"{""email"":""itservices@riverinacancercare.com.au"",""name"":""Adam Scammell"",""phone"":""0269321035"",""company"":""Riverina Cancer Care Centre"",""address"":""31 Meurant Avenue, Wagga Wagga\nNS"",""region"":""NSW""}",1,1,0,0
+"{""email"":""joel@tek.nz"",""name"":""Joel"",""phone"":""021949102"",""company"":""nztek"",""address"":""70 Buckley Ave"",""region"":""AUK""}",1,1,0,0
+"{""email"":""mathew@chewingit.com.au"",""name"":""Mathew Chewing"",""phone"":""0243394789"",""company"":""Chewing IT Pty Ltd"",""address"":""36 Bomaderry Crescent, Glenning Valley NSW 2261"",""region"":""NSW""}",1,1,0,0
+"{""email"":""oliver@lht.today"",""name"":""123123"",""phone"":""123123"",""company"":""123123test"",""address"":""123123"",""region"":""VIC""}",1,1,0,0
+"{""email"":""oliver@lht.today"",""name"":""Tho Le"",""phone"":""123123"",""company"":""123123"",""address"":""asdfsdf"",""region"":""VIC""}",1,1,0,0
+"{""email"":""oliver@lht.today"",""name"":""Tho Le"",""phone"":""410387353"",""company"":""123123test"",""address"":""U4\nPrince St"",""region"":""VIC""}",1,1,0,0
+"{""email"":""oliver@lht.today"",""name"":""Tho Le"",""phone"":""410387356"",""company"":""123123"",""address"":""123123"",""region"":""NT""}",1,1,0,0
+"{""email"":""oliver@lht.today"",""name"":""Tho Le"",""phone"":""410387356"",""company"":""testltd"",""address"":""test ltd"",""region"":""VIC""}",1,1,0,0
+"{""email"":""zhonghuax@digicor.com.au"",""name"":""zhonghua"",""phone"":""123123123"",""company"":""cvb"",""address"":""ertygfd"",""region"":""NSW""}",1,1,0,0
+"{""name"":"""",""email"":"""",""id"":""41"",""title"":""Break Through Data Challenges With Intel Optane"",""slug"":""/promo/Intel-Optane-2020""}",1,1,0,0
+"{""name"":"""",""email"":"""",""phone"":"""",""company"":"""",""country"":""AU"",""region"":"""",""url"":""https://digicor.com.au/solutions/oran-based-solution""}",1,1,0,0
+"{""name"":""Joshua"",""email"":""samson.joshua@plesng.com"",""telephone"":""+2347032375768"",""company"":""PLES IT SERVICES LTD."",""position"":""Director "",""industry"":""IT Reseller"",""source"":""Social Media"",""country"":""NG"",""region"":""LA"",""subject"":""Partnership Alliance "",""message"":""I would like to introduce and propose partnership alliance with the most prestigious IT services company in Africa as we deliver high quality IT service solutions at a very fast pace with effective cost. PLES IT Services can save your organization time and money through quality technological services.\n\n\nOverview \nPLES IT SERVICES is a 3rd party maintenance IT Service company with her head office in Nigeria and branches in most Africa countries (Republic of Benin, Togo, Ghana, Senegal, Ivory-Coast, Gabon, Cameroon, Congo, Gambia, Zambia, South Africa, Kenya, Algeria, Liberia, Uganda, Equatorial Guinea, Guinea Bissau).\n\nAt PLES, we provide service solutions for computer hardwares (Servers, Routers, Printers, Switches, NetApp Filers, Storage libraries like; Quantum Adic scalar storage libraries, HP storage libraries), break & fix and software solutions. PLES IT Services Limited is a subsidiary of PLES electrical stores, founded in 1984.\n\nOur engineers are well trained and certified with onsite hands-on experience to deliver that needed quality technical/onsite service to the end-customer. We have a 24hrs help-desk line which responds to all logged incident tickets.\n\nOther services we provide includes: Cable Networking/Structuring of Network cables, Air-Magnets, installations and maintenance of CCTV security devices, buildings and maintenance of e-Commerce sites and also developing and maintenance of mobile applications.""}",1,1,0,0
+"{""name"":""Tho Le Huu"",""email"":""lehuuthoct@gmail.com"",""telephone"":""410387356"",""company"":""12312"",""position"":""3123123"",""industry"":""Cloud Provider"",""source"":""Vendor Website/Referral"",""country"":""AU"",""region"":""VIC"",""subject"":""123123"",""message"":""123123""}",1,1,0,0
+,241,167,0,0

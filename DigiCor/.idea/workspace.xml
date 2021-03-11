@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fbf65fd-a695-464a-bc7c-d5a1abf06910" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;ASUS files/xml_E800-G4.txt&#10;#&#9;Data files/specification_applicator_data.xlsx&#10;#&#9;Data files/system info 5 oct 2020.csv&#10;#&#9;Intel_specs.xls&#10;#&#9;debug.log&#10;#&#9;intel files/Intel_ARK_SpecificationsChart_2020_12_09.xls&#10;#&#9;intel files/Intel_spec_1.xls&#10;#&#9;main.py&#10;#&#9;regexes.py&#10;#&#9;supermicro files/supermicros - Copy.csv&#10;#&#9;supermicro files/supermicros.csv&#10;#&#9;website_crawler.py">
+      <change afterPath="$PROJECT_DIR$/.idea/DigiCor 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data files/system_info_samples.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DigiCor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data files/system info 5 oct 2020 - Original.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data files/system info 5 oct 2020 - Original.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intel_specs.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Intel_specs.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supermicro.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Supermicro.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final files/supermicro_final.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/final files/supermicro_final.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_09.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (1).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (10).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (11).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (12).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (13).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (14).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (15).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (16).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (17).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (18).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (19).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (2).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (20).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (21).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (22).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (23).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (24).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (25).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (26).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (27).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (28).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (29).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (3).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (30).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (31).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (32).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (33).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (34).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (35).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (36).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (37).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (38).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (39).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (4).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (40).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (41).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (42).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (43).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (44).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (45).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (46).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (47).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (48).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (49).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (5).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (50).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (51).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (52).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (53).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (6).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (7).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (8).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10 (9).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_ARK_SpecificationsChart_2020_12_10.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_NUC8i3BEH.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_R1208WFTYS.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intel files/Intel_R2224WFTZS.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main - Copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models_missed_list.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regexes.py" beforeDir="false" afterPath="$PROJECT_DIR$/regexes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result - Copy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermicro_final.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_crawler.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1lU7RWDIUlKiFXDFmbtjokpSBgH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="DigiCor 2" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DigiCor 2" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python 3.8" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="DigiCor 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fbf65fd-a695-464a-bc7c-d5a1abf06910" name="Default Changelist" comment="" />
+      <created>1607639808234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607639808234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;ASUS files/xml_E800-G4.txt&#10;#&#9;Data files/specification_applicator_data.xlsx&#10;#&#9;Data files/system info 5 oct 2020.csv&#10;#&#9;Intel_specs.xls&#10;#&#9;debug.log&#10;#&#9;intel files/Intel_ARK_SpecificationsChart_2020_12_09.xls&#10;#&#9;intel files/Intel_spec_1.xls&#10;#&#9;main.py&#10;#&#9;regexes.py&#10;#&#9;supermicro files/supermicros - Copy.csv&#10;#&#9;supermicro files/supermicros.csv&#10;#&#9;website_crawler.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;ASUS files/xml_E800-G4.txt&#10;#&#9;Data files/specification_applicator_data.xlsx&#10;#&#9;Data files/system info 5 oct 2020.csv&#10;#&#9;Intel_specs.xls&#10;#&#9;debug.log&#10;#&#9;intel files/Intel_ARK_SpecificationsChart_2020_12_09.xls&#10;#&#9;intel files/Intel_spec_1.xls&#10;#&#9;main.py&#10;#&#9;regexes.py&#10;#&#9;supermicro files/supermicros - Copy.csv&#10;#&#9;supermicro files/supermicros.csv&#10;#&#9;website_crawler.py" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608510886598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608510886598" />
+    <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607640916967" />
+    <state width="1419" height="262" key="GridCell.Tab.0.bottom" timestamp="1608535748553">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608521186408" />
+    <state width="929" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1607921091169" />
+    <state width="1419" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608161463168" />
+    <state width="1419" height="262" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1608535748553" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607921041914" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1607663488799" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1607921139529" />
+    <state width="1419" height="262" key="GridCell.Tab.0.center" timestamp="1608535748553">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="262" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608521186405" />
+    <state width="929" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1607921091167" />
+    <state width="1419" height="249" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608161463167" />
+    <state width="1419" height="262" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1608535748553" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607921041913" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1607663488797" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1607921139528" />
+    <state width="1419" height="262" key="GridCell.Tab.0.left" timestamp="1608535748552">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="262" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608521186404" />
+    <state width="929" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1607921091166" />
+    <state width="1419" height="249" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608161463165" />
+    <state width="1419" height="262" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1608535748552" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607921041913" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1607663488797" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1607921139527" />
+    <state width="1419" height="262" key="GridCell.Tab.0.right" timestamp="1608535748553">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1419" height="262" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608521186407" />
+    <state width="929" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1607921091168" />
+    <state width="1419" height="249" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608161463167" />
+    <state width="1419" height="262" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1920.1057@0.23.1440.825" timestamp="1608535748553" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607921041913" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1607663488798" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1607921139528" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1607663713386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607663713386" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1607663488776" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1607663713384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607663713384" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1607663488775" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1607663713383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607663713383" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1607663488774" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1607663713385">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607663713385" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1607663488776" />
+    <state x="221" y="88" key="SettingsEditor" timestamp="1608285983294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="88" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608285983294" />
+    <state x="381" y="144" key="Vcs.Push.Dialog.v2" timestamp="1608530581879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="381" y="144" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1608530581879" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607664655411" />
+  </component>
+</project>

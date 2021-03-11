@@ -1,0 +1,82 @@
+<Processor / System Bus>
+	<1 x Socket SP3 
+	AMD EPYC\xe2\x84\xa2 7000 Series>
+<Generation>
+	<E9>
+<Core Logic>
+	<System on Chip (SoC)>
+<Memory>
+	<Total Slots :>
+		<16 (8-channel)>
+	<Capacity :>
+		<Maximum up to 2048GB LRDIMM>
+	<Memory Type :>
+		<DDR4 2666/2400 /2133  RDIMM
+		DDR4 2666/2400 /2133  LRDIMM
+		DDR4 2666/2400 /2133  LR-DIMM 3DS>
+<Expansion Slots>
+	<1 x PCIe 3.0 x16 Slot(Gen3 x16 link); FH,HL
+	1 x PCIe 3.0 x8 Slot(Gen3 x8 link); FH,HL
+	1 x OCP 2.0 Mezzanine Conn.(Gen3 x8 link)>
+<Storage>
+	<SATA Controller :>
+		<CPU Integrated>
+	<SATA Controller :>
+		<CPU Integrated
+		1 x M.2 connector>
+	<Optional kits Controller :>
+		<ASUS PIKE II 3008 8-port SAS HBA card
+		ASUS PIKE II 3108 8-port SAS HW RAID card>
+<Drive Bays>
+	<4 x 3.5" Hot-swap Storage Bays (Backplane Supports 4 x 3.5" or 2.5" SATA/SAS Devices)>
+<Networking>
+	<1 x Dual Port Intel I350-AM2 Gigabit LAN controller + 1 x Mgmt LAN>
+<Graphic>
+	<Aspeed AST2500 with 64MB VRAM>
+<Front I/O Ports>
+	<2 x USB 3.0 ports
+	1 x VGA port>
+<Rear I/O Ports>
+	<2 x USB 3.0 ports
+	1 x VGA port
+	2 x RJ-45 1GbE LAN ports
+	1 x RJ-45 Management port>
+<Switch/LED>
+	<Rear:
+	 - 1 x Power Switch/LED
+	 - 1 x Q-Code/Port 80 LED
+	 - 1 x Locatation LED
+	 - 1 x Message LED
+	Front:
+	 - 1 x Power Switch/LED
+	 - 1 x Location Switch/LED
+	 - 1 x Reset Switch
+	 - 1 x Message LED
+	 - 4 x LAN LED (LED1~2 for on-board LAN, 3~4 for OCP LAN)>
+<OS Support>
+	<Windows® Server 2016
+	RedHat® Enterprise Linux
+	SuSE® Linux Enterprise Server
+	CentOS
+	Ubuntu
+	VMware
+	Citrix XenServer>
+<Management Solution>
+	<ASUS Control Center
+	ASMB9-iKVM for KVM-over-IP>
+<Regulatory Compliance>
+	<BSMI, CE, FCC(Class A)>
+<Dimensions>
+	<616 x 444 x 44mm>
+<Form Factor>
+	<1U>
+<Weight>
+	<Net Weight: 11 Kg
+	Gross Weight: 17 Kg>
+<Power Supply>
+	<1+1 Redundant 770W 80 PLUS Platinum Power Supply
+	Rating: 100-127/200-240 Vac, 10A/5A, 50~60Hz, Class I>
+<Environment>
+	<Operation temperature: 10°C ~ 35°C
+	Non operation temperature: -40°C ~ 70°C
+	Non operation humidity: 20% ~ 90% ( Non condensing)>

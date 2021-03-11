@@ -1,0 +1,88 @@
+<Processor / System Bus>
+	<1 x Socket LGA2066 
+	Intel® Xeon® W Processors>
+<Core Logic>
+	<Intel® C422 Chipset>
+<Memory>
+	<Total Slots :>
+		<8 (4-channel per CPU, 8 DIMM per CPU)>
+	<Capacity :>
+		<Maximum up to 1024GB RDIMM>
+	<Memory Type :>
+		<DDR4 2933/2666/2400 /2133  RDIMM
+		DDR4 2933/2666/2400 /2133  LRDIMM>
+	<Memory Size :>
+		<64GB, 32GB, 16GB, 8GB, 4GB RDIMM
+		64GB, 32GB LRDIMM
+		* Refer to support page for more information 
+		* Actual memory frequency differs from Intel CPU types and memory module. Please check Intel official site for more detail about the memory types supported by each CPU.
+		*2933MHz will drop to 2666MHz when using 2DPC configurations.>
+<Expansion Slots>
+	<48-Lane CPU -
+	2 x PCI Express 3.0 x 16 slot (x16 link)
+	2 x PCI Express 3.0 x 16 slot (single @ x16 link, dual @ x8/x8 link)
+	1 x PCI Express 3.0 x 4 slot (x4 link)>
+<Storage>
+	<SATA Controller :>
+		<1 x U.2 connector (supports U.2 NVMe device)  
+		6 x SATA3 6Gb/s ports 
+		Intel® Rapid Storage Technology(RST) (For Windows Only)
+		(Support Software RAID 0, 1, 5, 10 )>
+	<SATA Controller :>
+		<1 x M.2 connector(2242/2260/2280/22110) PCIe mode 
+		1 x M.2 connector(2242/2260/2280/22110) both SATA & PCIe mode 
+		*Bandwidth is shared between M.2_2 and U.2.
+		** SATA Bandwidth is shared between M.2_1 and SATA 6G_1>
+<HDD Bays>
+	<3 x Internal 3.5" HDD Bays 
+	1 x Internal 2.5" SSD Bays>
+<Auxiliary Storage FDD/CD/DVD>
+	<2 x 5.25" media bays
+	(Options: No ODD/DVD-RW)>
+<Networking>
+	<2 x Intel® I210AT>
+<Front I/O Ports>
+	<2 x USB 3.0
+	2 x USB 2.0 (or optional card reader support)
+	1 x Headphone port
+	1 x Microphone port>
+<Rear I/O Ports>
+	<1 x USB BIOS Flashback Button
+	2 x USB 3.1 Gen2 ports (Type C & Type A)
+	4 x USB 3.1 Gen1 ports
+	4 x USB 2.0 ports (1 Supports USB BIOS Flashback)
+	1 x Optical S/PDIF Out Port
+	2 x Intel LAN (RJ45) Ports
+	8-channel Audio I/O Ports>
+<Switch/LED>
+	<1 x Power switch
+	1 x Power LED
+	1 x Reset switch
+	1 x HDD Access LED>
+<OS Support>
+	<Windows® 10
+	*Subject to change without any notice
+	*TPM needed>
+<Management Solution>
+	<ASUS Control Center (ACC) Support
+	On-Board ASMB9-iKVM for KVM-over-IP>
+<Regulatory Compliance>
+	<BSMI, CCC, CE, FCC(Class B), Energy Star>
+<Dimensions>
+	<423mm x 190mm x 435mm
+	16.7" x 7.48" x 17.1">
+<Weight>
+	<Net Weight 14Kg 
+	Gross Weight 16.2Kg>
+<Power Supply>
+	<700W 80PLUS GOLD Single Power Supply,
+	100-240V, 10-5A, 50/60Hz, Class I
+	500W 80PLUS BRONZE Single Power Supply,
+	100-240V, 10-6A, 50/60Hz, Class I
+	1300W 80PLUS Platinum Single Power Supply,
+	110-240Vac, 15-7A, 50/60Hz, Class I
+	*500W BRONZE PSU is only available for selected countries.>
+<Environment>
+	<Operation temperature: 10°C ~ 35°C
+	Non operation temperature: -40°C ~ 70°C
+	Non operation humidity: 20% ~ 90% ( Non condensing)>

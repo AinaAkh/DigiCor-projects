@@ -1,0 +1,85 @@
+<Operating System>
+	<Windows 10 Pro for Workstations
+	Windows 10 Pro - ASUS recommends Windows 10 Pro for business.
+	Windows 10 Home - ASUS recommends Windows 10 Pro for business.>
+<Processor / System Bus>
+	<1 x Socket LGA1151 
+	The 8th/9th generation Intel® Core\xe2\x84\xa2 i3/Pentium®/Celeron® Processor  
+	Intel® Core\xe2\x84\xa2 i9/i7/i5/i3 processors 
+	Intel® Xeon® E Processors
+	E-2100/E-2200
+	*Refer to support page for more information 
+	*Please refer to overview for details>
+<Core Logic>
+	<Intel® C246 Chipset>
+<Memory>
+	<Total Slots :>
+		<4 (2-channel)>
+	<Capacity :>
+		<Maximum up to 128GB UDIMM>
+	<Memory Type :>
+		<Dual Channel DDR4 2666/2400  UDIMM non ECC and with ECC>
+	<Memory Size :>
+		<32GB, 16GB, 8GB UDIMM
+		* Refer to support page for more information 
+		* Actual memory frequency differs from Intel CPU types and memory module. Please check Intel official site for more detail about the memory types supported by each CPU.>
+<Expansion Slots>
+	<PCIEX1_1: PCI-E x1 slot, x1 Gen3 Link, from PCH
+	PCIEX16_1: PCI-E x16 slot, x16 Gen3 Link
+	PCIEX8_1: PCI-E x8 slot, x4 Gen3 Link, from PCH>
+<Storage>
+	<SATA Controller :>
+		<Intel® C246 Chipset
+		8 x SATA3 6Gb/s ports 
+		1 x M.2 connector 
+		Intel® Rapid Storage Technology(RST) (For Linux/Windows)
+		(Support Software RAID 0, 1 )>
+<HDD Bays>
+	<2 x Internal 3.5" HDD Bays 
+	(Or switch to 2.5" SSD with cage by requests)>
+<Auxiliary Storage FDD/CD/DVD>
+	<1 x 5.25" media bays
+	(Options: No DVD-ROM/DVD-RW)>
+<Networking>
+	<1 x Intel® I210AT 
+	1 x i219-LM>
+<Front I/O Ports>
+	<2 x USB 3.2 Gen1
+	2 x USB 2.0
+	1 x Headphone port
+	1 x Microphone port>
+<Rear I/O Ports>
+	<2 x USB 3.2 Gen2 ports
+	2 x USB 3.2 Gen1 ports
+	2 x USB 2.0 ports
+	1 x HDMI
+	1 x DisplayPort
+	1 x VGA
+	2 x RJ-45 ports
+	1 x 8-channel Audio I/O ports (5 + 1 Audio jacks)>
+<OS Support>
+	<Windows® 10 64-bit
+	Please find the latest OS support from 
+	<a href="https://www.asus.com/event/Server/OS_support_list/OS.html">https://www.asus.com/event/Server/OS_support_list/OS.html</a>>
+<Regulatory Compliance>
+	<BSMI, CE, FCC(Class A), Energy Star>
+<Dimensions>
+	<410 mm x 96 mm x 330 mm
+	16.14" x 3.78" x 12.99">
+<Weight>
+	<Net Weight : 6.2 KG
+	Gross Weight : 7.5 KG>
+<Power Supply>
+	<300W 80PLUS Single Power Supply Bronze
+	(100-240Vac, 6-3A,50/60Hz, Class I)>
+<Environment>
+	<Operation temperature: 10°C ~ 35°C / Non operation temperature: -40°C ~ 70°C
+	Non operation humidity: 20% ~ 90% ( Non condensing)>
+<Accessory Box>
+	<1 x Support CD
+	1 x AC Power Cable
+	1 x VGA Support CD>
+<Optional Items>
+	<1. Smart Card Reader
+	2. DVD-RW/DVD-ROM
+	3. OS>
